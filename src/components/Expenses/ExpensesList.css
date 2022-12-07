@@ -1,9 +1,16 @@
+.expenses-list__label {
+    font-weight: bold;
+    padding-left: 1em;
+    color: #1b1b1b;
+}
+
 .expenses-list {
+    margin-top: 1.5em;
     list-style: none;
     padding: 0;
 }
 
 .expenses-list__fallback {
-    color: white;
+    color: #333333;
     text-align: center;
 }
