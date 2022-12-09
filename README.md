@@ -10,4 +10,4 @@ An application to record your monthly expenses, also a kickstart for my React le
 ## 🪄 Future Enhancements
 - Edit & Delete Existing Expenses
 - User Authentication
-- Cloud Database
+- Storage
